@@ -1,9 +1,6 @@
 # Eduarda Chagas — Personal Academic Site
 
-Site pessoal de divulgação científica internacional, em estilo elegante e
-acadêmico: fundo em tons pastéis (marfim/creme), acentos em terracota e sálvia,
-tipografia serifada editorial (Fraunces + Inter). Pronto para publicar no
-GitHub Pages.
+Personal website for international scientific dissemination, in an elegant and academic style: pastel background (ivory/cream), terracotta and sage accents, editorial serif typeface (Fraunces + Inter). Ready to publish.
 
 ## Estrutura
 
